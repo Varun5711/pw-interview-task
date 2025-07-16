@@ -3,7 +3,7 @@
 As instructed by the professor, the data submission for orders is integrated with a Google Spreadsheet to verify incoming requests.
 
 You can check the submitted data here:
-🔗 Google Sheet
+https://docs.google.com/spreadsheets/d/1yEq5WE5E7kQd_vLgE7HM99v4NiFewLTs6L5uXcI-G38/edit?gid=0#gid=0
 
 This integration confirms that the frontend checkout form and the backend API are working seamlessly.
 
